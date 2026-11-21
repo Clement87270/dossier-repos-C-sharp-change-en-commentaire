@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonction nombre est parfait string", "fonction nombre est parfait string\fonction nombre est parfait string.csproj", "{F33210FD-E312-4538-851A-FD209C88A018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33210FD-E312-4538-851A-FD209C88A018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33210FD-E312-4538-851A-FD209C88A018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33210FD-E312-4538-851A-FD209C88A018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33210FD-E312-4538-851A-FD209C88A018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C23BBE-FE16-4885-839F-076BD73D1A99}
+	EndGlobalSection
+EndGlobal

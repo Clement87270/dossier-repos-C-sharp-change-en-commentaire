@@ -1,0 +1,12 @@
+# Dossiers de compilation C#
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Fichiers temporaires
+*.tmp
+*.log

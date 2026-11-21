@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonction est paire", "fonction est paire\fonction est paire.csproj", "{E2D050A6-30A2-4136-967F-9969CF21F191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2D050A6-30A2-4136-967F-9969CF21F191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D050A6-30A2-4136-967F-9969CF21F191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D050A6-30A2-4136-967F-9969CF21F191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D050A6-30A2-4136-967F-9969CF21F191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72B9BDC1-2EA3-47D0-8FBC-DCE9DC66471C}
+	EndGlobalSection
+EndGlobal

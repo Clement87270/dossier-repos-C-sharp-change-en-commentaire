@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tableau compression", "tableau compression\tableau compression.csproj", "{D75093BD-032E-4238-BDE6-4AB5AFD7DF3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75093BD-032E-4238-BDE6-4AB5AFD7DF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75093BD-032E-4238-BDE6-4AB5AFD7DF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75093BD-032E-4238-BDE6-4AB5AFD7DF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75093BD-032E-4238-BDE6-4AB5AFD7DF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E522BDA-2E95-459B-9D0F-9B132C7055AA}
+	EndGlobalSection
+EndGlobal
