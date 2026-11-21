@@ -1,0 +1,14 @@
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\bin\Debug\net8.0\JeuDeLaFourchette.exe
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\bin\Debug\net8.0\JeuDeLaFourchette.deps.json
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\bin\Debug\net8.0\JeuDeLaFourchette.runtimeconfig.json
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\bin\Debug\net8.0\JeuDeLaFourchette.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\bin\Debug\net8.0\JeuDeLaFourchette.pdb
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\JeuDeLaFourchette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\JeuDeLaFourchette.AssemblyInfoInputs.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\JeuDeLaFourchette.AssemblyInfo.cs
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\JeuDeLaFourchette.csproj.CoreCompileInputs.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\JeuDeLaFourchette.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\refint\JeuDeLaFourchette.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\JeuDeLaFourchette.pdb
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\JeuDeLaFourchette.genruntimeconfig.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\JeuDeLaFourchette\obj\Debug\net8.0\ref\JeuDeLaFourchette.dll

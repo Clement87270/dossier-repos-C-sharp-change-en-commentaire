@@ -1,0 +1,14 @@
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\bin\Debug\net8.0\AireEtVolume.exe
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\bin\Debug\net8.0\AireEtVolume.deps.json
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\bin\Debug\net8.0\AireEtVolume.runtimeconfig.json
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\bin\Debug\net8.0\AireEtVolume.dll
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\bin\Debug\net8.0\AireEtVolume.pdb
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\AireEtVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\AireEtVolume.AssemblyInfoInputs.cache
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\AireEtVolume.AssemblyInfo.cs
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\AireEtVolume.csproj.CoreCompileInputs.cache
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\AireEtVolume.dll
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\refint\AireEtVolume.dll
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\AireEtVolume.pdb
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\AireEtVolume.genruntimeconfig.cache
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\AireEtVolume\obj\Debug\net8.0\ref\AireEtVolume.dll

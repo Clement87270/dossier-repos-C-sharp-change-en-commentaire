@@ -1,0 +1,14 @@
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\bin\Debug\net8.0\jeuOrdi0-1-2.exe
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\bin\Debug\net8.0\jeuOrdi0-1-2.deps.json
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\bin\Debug\net8.0\jeuOrdi0-1-2.runtimeconfig.json
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\bin\Debug\net8.0\jeuOrdi0-1-2.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\bin\Debug\net8.0\jeuOrdi0-1-2.pdb
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\jeuOrdi0-1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\jeuOrdi0-1-2.AssemblyInfoInputs.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\jeuOrdi0-1-2.AssemblyInfo.cs
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\jeuOrdi0-1-2.csproj.CoreCompileInputs.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\jeuOrdi0-1-2.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\refint\jeuOrdi0-1-2.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\jeuOrdi0-1-2.pdb
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\jeuOrdi0-1-2.genruntimeconfig.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\jeuOrdi0-1-2\obj\Debug\net8.0\ref\jeuOrdi0-1-2.dll

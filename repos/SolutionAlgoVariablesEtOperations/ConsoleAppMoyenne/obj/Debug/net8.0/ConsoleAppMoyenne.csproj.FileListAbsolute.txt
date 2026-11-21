@@ -1,0 +1,14 @@
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\bin\Debug\net8.0\ConsoleAppMoyenne.exe
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\bin\Debug\net8.0\ConsoleAppMoyenne.deps.json
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\bin\Debug\net8.0\ConsoleAppMoyenne.runtimeconfig.json
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\bin\Debug\net8.0\ConsoleAppMoyenne.dll
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\bin\Debug\net8.0\ConsoleAppMoyenne.pdb
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ConsoleAppMoyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ConsoleAppMoyenne.AssemblyInfoInputs.cache
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ConsoleAppMoyenne.AssemblyInfo.cs
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ConsoleAppMoyenne.csproj.CoreCompileInputs.cache
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ConsoleAppMoyenne.dll
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\refint\ConsoleAppMoyenne.dll
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ConsoleAppMoyenne.pdb
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ConsoleAppMoyenne.genruntimeconfig.cache
+C:\Users\cprovost\source\repos\SolutionAlgoVariablesEtOperations\ConsoleAppMoyenne\obj\Debug\net8.0\ref\ConsoleAppMoyenne.dll

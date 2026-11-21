@@ -1,0 +1,14 @@
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\bin\Debug\net8.0\RechercheDiviseurD1Nombre.exe
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\bin\Debug\net8.0\RechercheDiviseurD1Nombre.deps.json
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\bin\Debug\net8.0\RechercheDiviseurD1Nombre.runtimeconfig.json
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\bin\Debug\net8.0\RechercheDiviseurD1Nombre.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\bin\Debug\net8.0\RechercheDiviseurD1Nombre.pdb
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\RechercheDiviseurD1Nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\RechercheDiviseurD1Nombre.AssemblyInfoInputs.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\RechercheDiviseurD1Nombre.AssemblyInfo.cs
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\RechercheDiviseurD1Nombre.csproj.CoreCompileInputs.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\RechercheDiviseurD1Nombre.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\refint\RechercheDiviseurD1Nombre.dll
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\RechercheDiviseurD1Nombre.pdb
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\RechercheDiviseurD1Nombre.genruntimeconfig.cache
+C:\Users\cprovost\source\repos\StructureRépétitive\RechercheDiviseurD1Nombre\obj\Debug\net8.0\ref\RechercheDiviseurD1Nombre.dll

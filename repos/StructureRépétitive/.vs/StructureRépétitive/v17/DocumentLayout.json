@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6EE6C7-D148-442A-9D6B-AD14D12A182B}|NombrePremierOuPas\\NombrePremierOuPas.csproj|c:\\users\\cprovost\\source\\repos\\structurer\u00E9p\u00E9titive\\nombrepremieroupas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6EE6C7-D148-442A-9D6B-AD14D12A182B}|NombrePremierOuPas\\NombrePremierOuPas.csproj|solutionrelative:nombrepremieroupas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690C5840-5A87-4F14-9A5A-1CFF85CCB97B}|RechercheDiviseurD1Nombre\\RechercheDiviseurD1Nombre.csproj|c:\\users\\cprovost\\source\\repos\\structurer\u00E9p\u00E9titive\\recherchediviseurd1nombre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690C5840-5A87-4F14-9A5A-1CFF85CCB97B}|RechercheDiviseurD1Nombre\\RechercheDiviseurD1Nombre.csproj|solutionrelative:recherchediviseurd1nombre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D8BD36-EA84-400C-9972-1F6B90C00D47}|JeuDeLaFourchette\\JeuDeLaFourchette.csproj|c:\\users\\cprovost\\source\\repos\\structurer\u00E9p\u00E9titive\\jeudelafourchette\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D8BD36-EA84-400C-9972-1F6B90C00D47}|JeuDeLaFourchette\\JeuDeLaFourchette.csproj|solutionrelative:jeudelafourchette\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D8EFB-B078-4744-AD3C-C6890AB8D125}|jeuOrdi0-1-2\\jeuOrdi0-1-2.csproj|c:\\users\\cprovost\\source\\repos\\structurer\u00E9p\u00E9titive\\jeuordi0-1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D8EFB-B078-4744-AD3C-C6890AB8D125}|jeuOrdi0-1-2\\jeuOrdi0-1-2.csproj|solutionrelative:jeuordi0-1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FB38D9-9666-4C82-B94D-3625FC90A6A1}|BarnabeFaitSesCourses\\BarnabeFaitSesCourses.csproj|c:\\users\\cprovost\\source\\repos\\structurer\u00E9p\u00E9titive\\barnabefaitsescourses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FB38D9-9666-4C82-B94D-3625FC90A6A1}|BarnabeFaitSesCourses\\BarnabeFaitSesCourses.csproj|solutionrelative:barnabefaitsescourses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\NombrePremierOuPas\\Program.cs",
+              "RelativeDocumentMoniker": "NombrePremierOuPas\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\NombrePremierOuPas\\Program.cs",
+              "RelativeToolTip": "NombrePremierOuPas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:52:09.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\RechercheDiviseurD1Nombre\\Program.cs",
+              "RelativeDocumentMoniker": "RechercheDiviseurD1Nombre\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\RechercheDiviseurD1Nombre\\Program.cs",
+              "RelativeToolTip": "RechercheDiviseurD1Nombre\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:44:05.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\JeuDeLaFourchette\\Program.cs",
+              "RelativeDocumentMoniker": "JeuDeLaFourchette\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\JeuDeLaFourchette\\Program.cs",
+              "RelativeToolTip": "JeuDeLaFourchette\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:37:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\BarnabeFaitSesCourses\\Program.cs",
+              "RelativeDocumentMoniker": "BarnabeFaitSesCourses\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\BarnabeFaitSesCourses\\Program.cs",
+              "RelativeToolTip": "BarnabeFaitSesCourses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:16:15.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\jeuOrdi0-1-2\\Program.cs",
+              "RelativeDocumentMoniker": "jeuOrdi0-1-2\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\StructureR\u00E9p\u00E9titive\\jeuOrdi0-1-2\\Program.cs",
+              "RelativeToolTip": "jeuOrdi0-1-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T13:53:37.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

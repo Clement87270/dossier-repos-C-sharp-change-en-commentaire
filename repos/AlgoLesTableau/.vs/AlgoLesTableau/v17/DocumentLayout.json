@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892BB2F0-01DC-4C4A-A8A6-78CD9466E3BC}|rechercheD1NombreDans1Tableau\\rechercheD1NombreDans1Tableau.csproj|c:\\users\\cprovost\\source\\repos\\algolestableau\\recherched1nombredans1tableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892BB2F0-01DC-4C4A-A8A6-78CD9466E3BC}|rechercheD1NombreDans1Tableau\\rechercheD1NombreDans1Tableau.csproj|solutionrelative:recherched1nombredans1tableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB49CC0-0047-44B9-8FD7-F2B0633FE4BB}|DenombrerLesLettesDeLAlphabetDansUnTableau\\DenombrerLesLettesDeLAlphabetDansUnTableau.csproj|c:\\users\\cprovost\\source\\repos\\algolestableau\\denombrerleslettesdelalphabetdansuntableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB49CC0-0047-44B9-8FD7-F2B0633FE4BB}|DenombrerLesLettesDeLAlphabetDansUnTableau\\DenombrerLesLettesDeLAlphabetDansUnTableau.csproj|solutionrelative:denombrerleslettesdelalphabetdansuntableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99D7631-5AAC-46BF-A8F3-9945A0CA5493}|RechercheD1LettreDans1ChaineDeCaracteres\\RechercheD1LettreDans1ChaineDeCaracteres.csproj|c:\\users\\cprovost\\source\\repos\\algolestableau\\recherched1lettredans1chainedecaracteres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99D7631-5AAC-46BF-A8F3-9945A0CA5493}|RechercheD1LettreDans1ChaineDeCaracteres\\RechercheD1LettreDans1ChaineDeCaracteres.csproj|solutionrelative:recherched1lettredans1chainedecaracteres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C680F06-BACF-4F32-90FB-672A68DB74E5}|TriD1Tableau\\TriD1Tableau.csproj|c:\\users\\cprovost\\source\\repos\\algolestableau\\trid1tableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C680F06-BACF-4F32-90FB-672A68DB74E5}|TriD1Tableau\\TriD1Tableau.csproj|solutionrelative:trid1tableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8E95CE-4F29-4185-8751-8FADC0C997E4}|RechercherParDichotomie\\RechercherParDichotomie.csproj|c:\\users\\cprovost\\source\\repos\\algolestableau\\rechercherpardichotomie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8E95CE-4F29-4185-8751-8FADC0C997E4}|RechercherParDichotomie\\RechercherParDichotomie.csproj|solutionrelative:rechercherpardichotomie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96254A4F-74D4-4716-B12F-C328B8E94301}|LePendu\\LePendu.csproj|c:\\users\\cprovost\\source\\repos\\algolestableau\\lependu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96254A4F-74D4-4716-B12F-C328B8E94301}|LePendu\\LePendu.csproj|solutionrelative:lependu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8DF4C1-32C9-49C4-BAAE-EFF78F0057EB}|Palindrome\\Palindrome.csproj|c:\\users\\cprovost\\source\\repos\\algolestableau\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8DF4C1-32C9-49C4-BAAE-EFF78F0057EB}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\rechercheD1NombreDans1Tableau\\Program.cs",
+              "RelativeDocumentMoniker": "rechercheD1NombreDans1Tableau\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\rechercheD1NombreDans1Tableau\\Program.cs",
+              "RelativeToolTip": "rechercheD1NombreDans1Tableau\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:53:15.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\RechercheD1LettreDans1ChaineDeCaracteres\\Program.cs",
+              "RelativeDocumentMoniker": "RechercheD1LettreDans1ChaineDeCaracteres\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\RechercheD1LettreDans1ChaineDeCaracteres\\Program.cs",
+              "RelativeToolTip": "RechercheD1LettreDans1ChaineDeCaracteres\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:19:12.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\DenombrerLesLettesDeLAlphabetDansUnTableau\\Program.cs",
+              "RelativeDocumentMoniker": "DenombrerLesLettesDeLAlphabetDansUnTableau\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\DenombrerLesLettesDeLAlphabetDansUnTableau\\Program.cs",
+              "RelativeToolTip": "DenombrerLesLettesDeLAlphabetDansUnTableau\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T07:04:53.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\TriD1Tableau\\Program.cs",
+              "RelativeDocumentMoniker": "TriD1Tableau\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\TriD1Tableau\\Program.cs",
+              "RelativeToolTip": "TriD1Tableau\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:48:06.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\RechercherParDichotomie\\Program.cs",
+              "RelativeDocumentMoniker": "RechercherParDichotomie\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\RechercherParDichotomie\\Program.cs",
+              "RelativeToolTip": "RechercherParDichotomie\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T13:23:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\LePendu\\Program.cs",
+              "RelativeDocumentMoniker": "LePendu\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\LePendu\\Program.cs",
+              "RelativeToolTip": "LePendu\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:58:28.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\Palindrome\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrome\\Program.cs",
+              "ToolTip": "C:\\Users\\cprovost\\source\\repos\\AlgoLesTableau\\Palindrome\\Program.cs",
+              "RelativeToolTip": "Palindrome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:08:17.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
