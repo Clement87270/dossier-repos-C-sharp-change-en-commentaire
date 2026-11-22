@@ -1,0 +1,15 @@
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\bin\Debug\net8.0\rechercheD1NombreDans1Tableau.exe
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\bin\Debug\net8.0\rechercheD1NombreDans1Tableau.deps.json
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\bin\Debug\net8.0\rechercheD1NombreDans1Tableau.runtimeconfig.json
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\bin\Debug\net8.0\rechercheD1NombreDans1Tableau.dll
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\bin\Debug\net8.0\rechercheD1NombreDans1Tableau.pdb
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.AssemblyInfoInputs.cache
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.AssemblyInfo.cs
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.csproj.CoreCompileInputs.cache
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.sourcelink.json
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.dll
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\refint\rechercheD1NombreDans1Tableau.dll
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.pdb
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\rechercheD1NombreDans1Tableau.genruntimeconfig.cache
+C:\Users\Clément Provost\Desktop\dossier-repos-C-sharp-change-en-commentaire\repos\AlgoLesTableau\rechercheD1NombreDans1Tableau\obj\Debug\net8.0\ref\rechercheD1NombreDans1Tableau.dll

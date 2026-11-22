@@ -1,0 +1,26 @@
+if (il fait beau demain){
+			//je vais faire du vélo ou partir a pied a l'étang selon si ma bicyclette est en bon état
+			  	if(ma bicyclette est elle en parfait état){
+					je pars faire du vélo}
+			  	else{
+					je pars au garagiste avant ma balade
+						if(la réparation est immédiate){
+							je par faire du vélo}
+						else{
+							je pars a pied a l'étang et cueille des joncs
+				            	    }
+			      	    }
+			}
+else {
+//je vais bouquiner si je retrouve Madame de Bovary dans le salon je le lis si je le retrouve pas je part emprunter un bouquin de policier a la bibliothèque municipale après je m'installe chez moi dans un fauteuil et je lis
+	
+	je cherche mon bouquin dans la bibliothèque du salon
+	if (je ne retrouve pas mon bouquin de madame de Bovary)
+		je pars a la bibliothèque chercher le bouquin que je retrouve pas a savoir Madame de Bovary if (je le trouve){
+														  		je pars chez moi 
+														  	     }	
+												    	    else{
+														je prends un bouquin policier
+														je pars chez moi 
+	je m'installe chez moi dans un fauteuil et je lis													}
+     }  
